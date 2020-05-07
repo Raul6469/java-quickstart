@@ -2,6 +2,8 @@
 
 Easy to use Java project structure for easy compilation and execution
 
+**:books: [Learn more about this template in the wiki!](https://github.com/Raul6469/java-quickstart/wiki)**
+
 ## Get started
 
 **Prerequisites**
