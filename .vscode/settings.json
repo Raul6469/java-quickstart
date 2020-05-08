@@ -1,4 +1,10 @@
 {
   "java.configuration.updateBuildConfiguration": "automatic",
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
 }
