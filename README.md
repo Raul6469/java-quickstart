@@ -22,7 +22,7 @@ You can also open a terminal at the project root (at the same location of this R
 
 |Command|Purpose|
 |-------|-------|
-`./gradlew build`|Compile your project
+`./gradlew assemble`|Compile your project
 `./gradlew run --console=plain`|Compile and run your app
 `./gradlew clean`|Delete compiled classes
 
